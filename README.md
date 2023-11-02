@@ -1,2 +1,2 @@
 # SSPAN
-This project contains the code for the Structural Similarity based Partial Activation Network（SSPAN）. However, due to time constraints, we have only provided the network structure and the corresponding loss function code. More updates will be made in the future.
+This project contains the code for the Structural Similarity based Partial Activation Network（SSPAN）. However, due to time constraints, we have only provided the network structure and the corresponding loss function code. More updates will be made in the future. Additionally, the article "Cross-Scene Semantic Segmentation for Medical Surgical Instruments Using Structural Similarity Based Partial Activation Networks" has been submitted to IEEE Transactions on Medical Robotics & Bionics.
